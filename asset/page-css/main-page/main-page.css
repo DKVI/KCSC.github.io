@@ -3,7 +3,7 @@
 .slider {
     width: 100%;
     height: 100%;
-    background-image: url(./asset/img/background.png);
+    background-image: url(/asset/img/background.png);
     padding-bottom: 50%;
     background-size: cover;
     background-position: center;
